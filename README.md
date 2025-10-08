@@ -9,7 +9,7 @@ Have questions? Join [AI Stack devs](https://discord.gg/TsWCNVvRP5) and find me 
 
 https://github.com/ykhli/AI-tamago/assets/3489963/8d7cb2ac-537a-45d4-98a5-1802b773e364
 
-## Stack
+## Stackzzzxc
 
 ### Local Mode
 - 🦙 Inference: [Ollama](https://github.com/jmorganca/ollama), with options to use OpenAI or [Replicate](https://replicate.com/)
